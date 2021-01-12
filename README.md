@@ -1,6 +1,6 @@
 **Keyd**
 
-> - Keys parser for lololoshka shop
+> Keys parser for lololoshka shop
 
 ---
 
@@ -44,4 +44,4 @@
 
 ---
 
-#Версия Python: `3.9.1`
+# Версия Python: `3.9.1`
