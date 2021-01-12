@@ -1,6 +1,9 @@
 **Keyd**
+
 Keys parser for lololoshka shop
+
 ===
+
 Создайте файл с названием `config.json` в корневой директории с данным текстом:
 ```
 {
@@ -14,5 +17,7 @@ Keys parser for lololoshka shop
   "group_id": "lololoshkashop24"
 }
 ```
+
 ---
+
 Как получить токен приложения:
