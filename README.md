@@ -1,5 +1,4 @@
-Keyd
----
+**Keyd**
 Keys parser for lololoshka shop
 ===
 Создайте файл с названием `config.json` в корневой директории с данным текстом:
